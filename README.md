@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shankar49
+- 👋 Hi, I’m Shankar
 - 👀 I’m interested in Data Science,NLP
 - 🌱 I’m currently pursuing my B.Tech 3rd year
 - 💞️ I’m looking to collaborate on a end to end Machine learning project
