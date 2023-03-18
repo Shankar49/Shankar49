@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shankar
 - 👀 I’m interested in Data Science,NLP
-- 🌱 I’m currently pursuing my B.Tech 3rd year
-- 💞️ I’m looking to collaborate on a end to end Machine learning project
+- 🌱 I’m currently pursuing my B.Tech Final year
+- 💞️ I’m looking to collaborate on a end to end Machine learning projects
 - 📫 you can reach me through gmail(puramsettishankar123@gmail.com) or linkedin(linkedin.com/in/shankar-puramsetti-65a9541a0)
 
 <!---
